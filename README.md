@@ -1,25 +1,20 @@
-# 50-command-di-virtual-box
-## Dasar Navigasi & Manipulasi File
-1. pwd – Menampilkan direktori saat ini
-![Screenshot from 2025-02-11 15-20-49](https://github.com/user-attachments/assets/aed090eb-3e2a-445b-ae17-02ef750ceca2)
-2. ls – Menampilkan daftar file dalam direktori
-   ![Screenshot from 2025-02-11 15-23-47](https://github.com/user-attachments/assets/48e9f778-2fc8-4c64-8dae-ee0e2e4c49f9)
-3. cd [direktori] – Pindah ke direktori lain
-   ![Screenshot from 2025-02-11 15-27-21](https://github.com/user-attachments/assets/c8c630e6-1dc0-4ada-8042-2d91363bbe2d)
-4. mkdir [nama_folder] – Membuat folder baru
-   ![Screenshot from 2025-02-11 15-32-39](https://github.com/user-attachments/assets/56a570af-d75e-45f4-b26b-01d11ffc63e6)
-5. rmdir [nama_folder] – Menghapus folder kosong
-   ![Screenshot from 2025-02-11 15-33-44](https://github.com/user-attachments/assets/677da3e5-de5b-4372-8d84-7b21863400b2)
-6. rm [nama_file] – Menghapus file
-   ![image](https://github.com/user-attachments/assets/8413c00c-9078-4be8-b42a-805f36ec9cc7)
-7. rm -r [nama_folder] – Menghapus folder beserta isinya
-   ![Screenshot from 2025-02-11 15-35-56](https://github.com/user-attachments/assets/dd0baa9a-b456-4b5d-8da0-1e7ae2eaea07)
-8. cp [file1] [file2] – Menyalin file
-   ![Screenshot from 2025-02-11 15-38-44](https://github.com/user-attachments/assets/3d72f72c-9693-47ca-97f7-334343e41a20)
-9. mv [file1] [file2] – Memindahkan atau mengganti nama file
-    ![Screenshot from 2025-02-11 15-39-35](https://github.com/user-attachments/assets/377bcb51-01e5-4c5f-a37b-e97ba479e848)
-10. touch [nama_file] – Membuat file kosong
-   ![Screenshot from 2025-02-11 15-40-51](https://github.com/user-attachments/assets/4e35d25c-5e84-4f3f-8f0a-063c4a83fdb7)
+# 50 Command di Ubuntu
+
+Dokumentasi ini mencakup 50 perintah penting yang sering digunakan di Ubuntu, lengkap dengan deskripsi dan screenshot.
+
+## 📂 Dasar Navigasi & Manipulasi File
+1. **pwd** – Menampilkan direktori saat ini  
+   ![pwd](https://github.com/user-attachments/assets/aed090eb-3e2a-445b-ae17-02ef750ceca2)
+2. **ls** – Menampilkan daftar file dalam direktori  
+   ![ls](https://github.com/user-attachments/assets/48e9f778-2fc8-4c64-8dae-ee0e2e4c49f9)
+3. **cd [direktori]** – Pindah ke direktori lain  
+   ![cd](https://github.com/user-attachments/assets/c8c630e6-1dc0-4ada-8042-2d91363bbe2d)
+4. **mkdir [nama_folder]** – Membuat folder baru  
+   ![mkdir](https://github.com/user-attachments/assets/56a570af-d75e-45f4-b26b-01d11ffc63e6)
+5. **rmdir [nama_folder]** – Menghapus folder kosong  
+   ![rmdir](https://github.com/user-attachments/assets/677da3e5-de5b-4372-8d84-7b21863400b2)
+6. **rm [nama_file]** – Menghapus file  
+   ![rm](https://github.com/user-attachments/assets/8413c00c-9078-4be8-b42a-805f36ec9cc7)
 ## Pengelolaan File & Teks
 11. cat [nama_file] – Menampilkan isi file
     ![Screenshot from 2025-02-11 15-44-12](https://github.com/user-attachments/assets/9cc5bbde-f8fd-435d-83c3-0956794ef364)
